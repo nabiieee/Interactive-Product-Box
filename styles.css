@@ -65,10 +65,6 @@ body {
   background-color: var(--primary-bg-color);
 }
 
-.most-popular {
-  border-color: var(--primary-color);
-}
-
 .popular-badge {
   position: absolute;
   top: -0.75rem;
